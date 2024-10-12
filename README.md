@@ -1,5 +1,5 @@
 # INF2001 Team Project
-Repository for the INF2001 software engineering team project 
+Repository for the INF2001 software engineering team project for group P2-3
 
 ### Table of Contents
 - [Project Overview](#project-overview)
