@@ -1,4 +1,4 @@
-# Airline Cabin Crew
+## INF2001 Team Project
 
 ### Description
 Repository for the INF2001 software engineering team project 
@@ -7,6 +7,7 @@ Repository for the INF2001 software engineering team project
 - [Project Overview](#project-overview)
 - [Team Members](#team-members)
 
+# Airline Cabin Crew
 ## Project Overview
 Workload management system for an airline's cabin crew division.
 
