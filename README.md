@@ -1,6 +1,4 @@
-## INF2001 Team Project
-
-### Description
+# INF2001 Team Project
 Repository for the INF2001 software engineering team project 
 
 ### Table of Contents
@@ -9,7 +7,9 @@ Repository for the INF2001 software engineering team project
 
 # Airline Cabin Crew
 ## Project Overview
-Workload management system for an airline's cabin crew division.
+Workload management system for an airline's cabin crew division. 
+
+This project calls for a web based system to manage the workload of an airline's cabin crew. It describes the framework of implementing various details of the system such as the functional and non-function requirements, as well as relavent diagrams to assist in visualising and understanding key aspects of the system.
 
 ## Team Members
 
